@@ -1,5 +1,8 @@
 # Notes
 
+[![Continuous Integration](https://github.com/rafaelacorrea/notes/actions/workflows/ci.yml/badge.svg)](https://github.com/rafaelacorrea/notes/actions/workflows/ci.yml)
+
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
